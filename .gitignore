@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# OS/desktop trash
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Build artifacts
+dist/
+build/
